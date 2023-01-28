@@ -15,13 +15,13 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://bing.img.run/rand.php",
+      "src": "https://api.oneneko.com/v1/bing_today",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://bing.img.run/rand.php",
+      "src": "https://api.kdcc.cn/img/rand.php",
       "url": "",
       "width": null,
       "height": null
@@ -32,13 +32,13 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://bing.img.run/rand.php",
+      "src": "https://api.oneneko.com/v1/bing_today",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://bing.img.run/rand.php",
+      "src": "https://api.kdcc.cn/img/rand.php",
       "url": "",
       "width": null,
       "height": null
@@ -49,7 +49,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://bing.img.run/rand.php",
+      "src": "https://api.kdcc.cn/img/rand.php",
       "url": "",
       "width": null,
       "height": null
